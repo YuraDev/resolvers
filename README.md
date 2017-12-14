@@ -1,5 +1,5 @@
 
-> Promise chain resolver
+> Creating different verification chains
 # Quick start
 
 [![NPM](https://nodei.co/npm/resolvers.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/resolvers/)
